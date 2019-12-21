@@ -4,5 +4,5 @@ export function getCookie(name) {
   if (arr)
     return (arr[2]);
   else
-    return null;
+    return null
 }
